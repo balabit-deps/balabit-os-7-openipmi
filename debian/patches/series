@@ -1,0 +1,2 @@
+0001-Add-openssl-1.1.0-support.patch
+fix_pthread_pkg_config.patch
